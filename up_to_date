@@ -1,0 +1,12 @@
+git init: Initializes a new Git repository in the current directory.
+git clone [repository URL]: Clones a remote Git repository to your local machine.
+git status: Shows the status of the current Git repository.
+git add [file]: Adds a file to the staging area.
+git commit -m "[commit message]": Commits changes to the repository with a commit message.
+git push: Pushes committed changes to a remote Git repository.
+git pull: Pulls changes from a remote Git repository to your local machine.
+git branch: Lists all branches in the repository.
+git checkout [branch]: Switches to the specified branch.
+git merge [branch]: Merges the specified branch into the current branch.
+git remote -v: Shows a list of remote repositories.
+git log: Shows a log of all previous commits.
